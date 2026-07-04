@@ -1,6 +1,6 @@
 {
   "name": "jest-watch-typeahead",
-  "version": "1.1.0",
+  "version": "1.1.0-lineaje-01",
   "main": "build/index.js",
   "exports": {
     ".": "./build/index.js",
@@ -12,9 +12,15 @@
   "author": "Rogelio Guzman <rogelioguzmanh@gmail.com>",
   "description": "Jest plugin for filtering by filename or test name",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jest-community/jest-watch-typeahead.git"
+    "url": "https://github.com/lineaje-labs-gos/jest-community-jest-watch-typeahead"
   },
   "homepage": "https://github.com/jest-community/jest-watch-typeahead",
   "files": [
